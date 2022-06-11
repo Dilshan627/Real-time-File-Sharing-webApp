@@ -1,0 +1,11 @@
+
+#IntelliJ files
+**/*.iml
+**/.idea
+**/.gradle
+/out
+
+#//////
+*.json
+node_modules/
+
